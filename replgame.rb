@@ -86,7 +86,7 @@ else puts
  "Did you even try? All wrong.. just stick to coding"
 end
 =end
-
+#Nice game
 if vamos.include?("9")
   puts "Congratulations you are a  genius. Nope just kidding, well you might be but question 3 is a trick there is no right or wrong answer..
   Here is the explanation: When limited to the 4 provided answers, there is no correct answer, because this question is a paradox. When there is one correct answer, the chance to pick that answer would be 25%. However, the answer 25% exists twice, so there is a 50% chance of picking it."
